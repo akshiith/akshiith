@@ -38,4 +38,5 @@ I enjoy working on problems involving system design, automation, and reliability
 Links
 - LinkedIn: https://linkedin.com/in/akshithjalagari
 - GitHub: https://github.com/akshiith
-- Resume: 
+- Resume: https://github.com/akshiith/akshiith/raw/main/Akshith_CV.pdf
+
