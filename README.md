@@ -1,42 +1,18 @@
-Akshith Jalagari
+# 💫 About Me:
+Final-year B.Tech CSE (AI & ML) student with hands-on experience in machine learning, IoT systems, and AI-<br>driven automation. Worked on defense-oriented analytics involving real-time sensor data, simulation models, and<br>predictive systems.
 
-AI & Systems Engineering student focused on building reliable automation, ML-driven systems, and secure data pipelines.
 
-What I’m working on
-- AI-powered support automation using Retrieval-Augmented Generation (RAG)
-- Sensor-based IoT threat prediction systems
-- Secure data management using blockchain and access control
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/akshithjalagarI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshithj2005@gmail.com) 
 
-Featured Projects
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshiith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akshiith&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshiith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-AI-Powered Support Automation System
-- Built a support automation pipeline using RAG, ChromaDB, and Gmail API
-- Implemented context-aware responses with human-in-the-loop approval
-- Focused on safety, control, and reliability in automated workflows
+---
+[![](https://visitcount.itsvg.in/api?id=akshiith&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Threat Prediction Through Sensor-Based IoT
-- Developed a sensor-driven IoT prediction system with machine learning models
-- Integrated real-time data acquisition and visualization dashboards
-- Designed with defense-oriented research constraints in mind
-
-Personalized Diabetes Suggestion System
-- Implemented blockchain-backed immutable storage for medical records
-- Added firewall-based authentication with role-based access control
-- Emphasized data integrity, traceability, and secure access
-
-Tech Stack
-- Languages: Python, Java, C
-- AI / ML: RAG, Scikit-learn, TensorFlow
-- Systems & Tools: APIs, Automation, IoT, Git
-- Cloud & Platforms: GCP, AWS, n8n
-- Databases: SQL, Vector Databases (ChromaDB)
-
-About
-Final-year B.Tech CSE (AI & ML) student interested in building production-oriented AI systems.
-I enjoy working on problems involving system design, automation, and reliability under real-world constraints.
-
-Links
-- LinkedIn: https://linkedin.com/in/akshithjalagari
-- GitHub: https://github.com/akshiith
-- Resume: https://github.com/akshiith/akshiith/raw/main/Akshith_CV.pdf
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
